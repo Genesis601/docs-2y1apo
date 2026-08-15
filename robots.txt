@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-kqnil4.trans88.online/sitemap.xml
